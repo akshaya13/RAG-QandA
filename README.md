@@ -1,5 +1,7 @@
 # RAG Document Q&A with Groq and Llama3
 
+## DEMO : https://akshaya-rag-document.streamlit.app/
+
 This project is a Streamlit-based Q&A application that utilizes Retrieval-Augmented Generation (RAG) to answer questions from a collection of research papers. It combines Groq's Llama3 model for language understanding with FAISS for efficient vector search.
 
 ## Features
